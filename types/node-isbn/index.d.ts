@@ -67,6 +67,7 @@ declare namespace isbn {
         publishedDate: string;
         publisher: string;
         title: string;
+        subtitle: string;        
     }
 }
 
